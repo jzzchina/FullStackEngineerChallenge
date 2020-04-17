@@ -1,5 +1,22 @@
 # Full Stack Developer Challenge
-This is an interview challengs. Please feel free to fork. Pull Requests will be ignored.
+## Technologies used
+
+### Server side
+* Asp.net WebApi
+* Azure cloud
+
+### Client side
+* React + Redux + Router
+
+
+## Start
+
+This demo app was able to be deploied and tested using commands  below
+
+```
+$ npm install
+$ npm run dev
+```
 
 ## Requirements
 Design a web application that allows employees to submit feedback toward each other's performance review.
