@@ -19,6 +19,10 @@ $ npm install
 $ npm run dev
 ```
 
+## Login
+* ID/PW: 
+* admin/admin or employee/employee
+
 ## Requirements
 Design a web application that allows employees to submit feedback toward each other's performance review.
 
