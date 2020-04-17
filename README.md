@@ -1,6 +1,10 @@
 # Full Stack Developer Challenge
 * Website:  http://demo-sho.azurewebsites.net/
-* Defalut ID/PW is  admin/admin or employee/employee
+* Defalut ID/PW 
+```
+admin/admin
+employee/employee
+```
 
 ## Technologies used
 
