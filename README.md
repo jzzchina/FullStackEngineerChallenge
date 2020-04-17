@@ -11,7 +11,7 @@
 
 ## Start
 
-This demo app was able to be deploied and tested using commands  below
+This demo app was able to be start using commands  below
 
 ```
 $ npm install
