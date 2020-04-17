@@ -14,6 +14,7 @@
 This demo app was able to be start using commands  below
 
 ```
+$ cd client
 $ npm install
 $ npm run dev
 ```
