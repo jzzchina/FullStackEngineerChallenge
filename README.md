@@ -1,4 +1,7 @@
 # Full Stack Developer Challenge
+*Website:  http://demo-sho.azurewebsites.net/
+Defalut ID/PW is  admin/admin or employee/employee
+
 ## Technologies used
 
 ### Server side
@@ -6,7 +9,7 @@
 * Azure cloud
 
 ### Client side
-* React + Redux + Router
+* React + Redux + Router + Typescipt
 
 
 ## Start
@@ -18,10 +21,6 @@ $ cd client
 $ npm install
 $ npm run dev
 ```
-
-## Login
-* ID/PW: 
-* admin/admin or employee/employee
 
 ## Requirements
 Design a web application that allows employees to submit feedback toward each other's performance review.
